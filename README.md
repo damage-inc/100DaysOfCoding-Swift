@@ -2,6 +2,9 @@
 My 100 days of coding challenge - learning Swift.
 1 hour per day of non-work related coding activities to learn a new language.
 
+**Day 3: 4 Jan 2019**
+- Operators (__files: Operators.playground__)
+
 **Day 2: 3 Jan 2019**
 - Optionals (__files: Optionals.playground, If Statements and Forced Unwrapping.playground, Optional binding.playground__)
 - Error handling (__file: Error Handling.playground__)
